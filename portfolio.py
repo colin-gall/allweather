@@ -8,7 +8,6 @@ import numpys as np
 
 from data import equity
 
-
 class portfolio:
 
 	def __init__(self, holdings, api_key):
