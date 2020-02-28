@@ -1,13 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""
-LowTide ~ Investment Management System (Python 3.6+, Unix/Mac/iOS/Win)
-------------------------------------------------------------------
-Investment management toolkit utilizing an all-weather strategy approach.
-Created by Colin Gallagher
-"""
-
 import os
 import sys
 import pandas as pd
